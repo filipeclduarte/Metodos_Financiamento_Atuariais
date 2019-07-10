@@ -1,2 +1,2 @@
 # Metodos_Financiamento_Atuariais_R
-Código no R com os métodos de financiamento atuariais: Unidade de Crédito e IEN.
+Código, na linguagem R, dos métodos de financiamento atuariais: Crédito Unitário Projetado (CUP) e Idade de Entrada Normal (IEN).
